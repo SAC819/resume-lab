@@ -1,0 +1,55 @@
+p {
+    text-align: left;
+}
+
+
+h6 {
+    text-align: left;
+    
+}
+
+.Nav {
+    background-color: skyblue;
+    padding: 3%;
+    text-align: center;
+    color: white;
+}
+
+#about {
+    padding: 2%;
+}
+
+#skills {
+    padding: 2%;
+}
+
+#projects {
+    padding: 2%;
+}
+
+#resume {
+    padding: 2%;
+}
+
+#contact {
+    padding: 2%;
+}
+
+p1 {
+    color: skyblue;
+    font: italic;
+    
+}
+
+h3 {
+    text-align: center;
+    
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
