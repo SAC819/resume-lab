@@ -5,51 +5,79 @@ p {
 
 h6 {
     text-align: left;
+    font-weight: bold;
     
 }
 
-.Nav {
-    background-color: skyblue;
-    padding: 3%;
+
+h4, h5 { 
+    text-align: center;
+ 
+}
+
+
+#navbar {
+
+    background-color: #A3C5CF;
+    float: center;
     text-align: center;
     color: white;
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
-#about {
-    padding: 2%;
+#navbar li {
+    display: inline;
+    padding: 1em;
+   
+}
+ul {
+    list-style: none;
+    margin: 0px 5px;
 }
 
-#skills {
-    padding: 2%;
+ul li {
+    display: inline;
 }
 
-#projects {
-    padding: 2%;
+ul li a {
+    color: white;
+    background:#A3C5CF;
+
 }
 
-#resume {
-    padding: 2%;
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:2px;
+}
+  /* Centre the page */
+.body {
+    display:block;
+    margin:0 auto;
+    width:576px;
 }
 
-#contact {
-    padding: 2%;
+
+form {
+    margin:0 auto;
+    width:459px;
+    background: #A3C5CF;
 }
 
-p1 {
-    color: skyblue;
-    font: italic;
-    
-}
 
-h3 {
-    text-align: center;
-    
+input, textarea {
+	width:439px;
+	height:27px;
+	background-color: white;
+	border:1px solid white;
+	padding:10px;
+	margin-top:3px;
+	font-size:0.9em;
+	color:#3a3a3a;
 }
+#center-align {
+    margin-left: 850px;
+    color: #A3C5CF;
 
-h1, h2 {
-    text-align: center;
-}
-
-h4 {
-    text-align: center;
 }
